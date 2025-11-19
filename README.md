@@ -5,8 +5,8 @@
 **Category:** Personal Finance Apps - Smart budgeting, expense trackers, freelance income management tools
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen)](https://skn-hackfest.web.app/)
-[![Android APK](https://img.shields.io/badge/Android%20APK-Download-blue)](https://github.com/Omkar2k5/ZenovateX-2025/raw/main/Frontend/public/financebuddy.apk)
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Next.js%20%7C%20Kotlin%20%7C%20AI-orange)](https://github.com/Omkar2k5/smart-finance-tracker)
+[![Android APK](https://img.shields.io/badge/Android%20APK-Download-blue)](https://github.com/MRUnal1232/Finance-Tracking-Application/raw/main/Frontend/public/financebuddy.apk)
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Next.js%20%7C%20Kotlin%20%7C%20AI-orange)](https://github.com/MRUnal1232/Finance-Tracking-Application/)
 
 > **Revolutionary AI-Powered Financial Management Platform** - Transforming UPI transaction tracking and financial management through intelligent automation and cloud-based analytics.
 
@@ -189,7 +189,7 @@ Smart Finance Tracker provides a comprehensive cloud-based solution for automate
 ### **📱 Android Application**
 **Download Options:**
 - **From Hosted Link:** [Download APK from Website](https://skn-hackfest.web.app/home)
-- **From Android Build:** [Download from Repository](https://github.com/Omkar2k5/ZenovateX-2025/raw/main/Frontend/public/financebuddy.apk)
+- **From Android Build:** [Download from Repository](https://github.com/MRUnal1232/Finance-Tracking-Application/raw/main/Frontend/public/financebuddy.apk)
 
 ### **🚀 Getting Started**
 1. **Web Access:** Visit the live demo link above to explore all features
@@ -217,8 +217,8 @@ In today's UPI-dominated world, automated logging of all transactions is crucial
 #### **Quick Start**
 ```bash
 # Clone the repository
-git clone https://github.com/Omkar2k5/ZenovateX-2025.git
-cd ZenovateX-2025/Frontend
+git clone https://github.com/MRUnal1232/Finance-Tracking-Application
+cd Finance-Tracking-Application/Frontend
 
 # Install dependencies
 npm install
@@ -259,7 +259,7 @@ BINANCE_API_KEY=your_binance_key
 #### **For End Users**
 1. **Download APK:**
    - **From Website:** [Download from Hosted Link](https://skn-hackfest.web.app/home)
-   - **From Repository:** [Download from Android Build](https://github.com/Omkar2k5/ZenovateX-2025/raw/main/Frontend/public/financebuddy.apk)
+   - **From Repository:** [Download from Android Build](https://github.com/MRUnal1232/Finance-Tracking-Application/raw/main/Frontend/public/financebuddy.apk)
 
 2. **Prepare Device for Installation:**
    - **Enable Unknown Sources:** Go to Settings > Security > Enable "Unknown Sources" or "Install unknown apps"
@@ -307,22 +307,17 @@ npm run deploy
 
 ### **Team Members:**
 
-#### **Omkar Gondkar** - Full-Stack Developer & FinTech Innovator
-**Pushkaraj Palli ** - Full-Stack Developer & Project Lead
+#### **Mrunal Thamake** - Full-Stack Developer & FinTech Innovator
 - 🎓 **Expertise:** Modern web technologies, mobile development, AI/ML integration
 - 🚀 **Role:** Frontend development, AI integration, project architecture
 - 💡 **Innovation:** Combining AI, cloud computing, and user-centric design
 
-#### **Pushkaraj Palli** - Backend Developer & System Architect
-- 🎓 **Expertise:** Backend systems, cloud infrastructure, database design
-- 🚀 **Role:** Backend development, cloud deployment, system optimization
-- 💡 **Innovation:** Scalable architecture and robust financial data processing
 
 ### **Connect & Collaborate**
-- 📧 **Email:** [gondkaromkar53@gmail.com](mailto:gondkaromkar53@gmail.com)
-- 📱 **Phone:** +91 8855916700
-- 💼 **LinkedIn:** [linkedin.com/in/og25](https://www.linkedin.com/in/og25/)
-- 🐙 **GitHub:** [github.com/Omkar2k5](https://github.com/Omkar2k5)
+- 📧 **Email:** [mrunalthamake9@gmail.com](mailto:mrunalthamake9@gmail.com)
+- 📱 **Phone:** +91 7798361881
+- 💼 **LinkedIn:** [linkedin.com/in/mrunal-thamake-b94a10267](https://www.linkedin.com/in/mrunal-thamake-b94a10267/)
+- 🐙 **GitHub:** [github.com/MRUnal1232](https://github.com/MRUnal1232)
 
 ---
 

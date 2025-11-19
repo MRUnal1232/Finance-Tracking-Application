@@ -703,10 +703,7 @@ export default function HomePage() {
           <div className="grid gap-8 md:grid-cols-2">
             <div className="space-y-4">
               <h3 className="text-lg md:text-xl font-bold">About the Developer</h3>
-              <p className="text-sm md:text-base text-gray-600">
-                Hi, We are Deepship, a passionate full-stack developer with expertise in modern web technologies.
-                We created FinanceBuddy to help people manage their finances more effectively using the power of AI and intuitive design.
-              </p>
+              
               <div className="space-y-2">
               </div>
             </div>
@@ -714,7 +711,7 @@ export default function HomePage() {
               <h3 className="text-lg md:text-xl font-bold">Connect With Me</h3>
               <div className="space-y-4">
                 <Link
-                  href="https://www.linkedin.com/in/og25/"
+                  href="https://www.linkedin.com/in/mrunal-thamake-b94a10267/"
                   target="_blank"
                   className="flex items-center gap-2 text-gray-600 hover:text-primary transition-colors"
                 >
@@ -724,7 +721,7 @@ export default function HomePage() {
                   <span className="text-sm md:text-base">LinkedIn Profile</span>
                 </Link>
                 <Link
-                  href="https://github.com/Omkar2k5"
+                  href="https://github.com/MRUnal1232"
                   target="_blank"
                   className="flex items-center gap-2 text-gray-600 hover:text-primary transition-colors"
                 >
