@@ -1,0 +1,59 @@
+# Node.js
+node_modules/
+.next/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# VS Code
+.vscode/
+
+# misc
+*.log
+.DS_Store
+*.pem 
+.vercel
+
+
+# API keys and credentials
+# Environment and dotenv
+.env*
+# Common API credential files
+api-keys.json
+api_key.json
+apikeys.json
+credentials.json
+serviceAccountKey.json
+firebase-adminsdk*.json
+google-services.json
+.credentials
+secrets.json
+secrets.yml
+# Keystore and certificate files
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.crt
+
+AIzaSyCTn42mYS7wCWJdPn5Qpn2viJR0X9hz51c
+
+Frontend/app/fingpt/page.tsx
